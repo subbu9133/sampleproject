@@ -1,0 +1,4 @@
+com\demo\swagger\config\SwaggerConfig.class
+com\demo\swagger\controller\UserController.class
+com\demo\swagger\SwaggerApplication.class
+com\demo\swagger\model\User.class
