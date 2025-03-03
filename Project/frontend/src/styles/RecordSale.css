@@ -1,0 +1,58 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  form {
+    width: 100%;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .MuiTypography-root {
+    text-align: center;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .MuiFormControl-root {
+    margin-bottom: 16px;
+  }
+  
+  .MuiButton-containedPrimary {
+    background-color: #1976d2;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: none;
+  }
+  
+  .MuiButton-containedPrimary:hover {
+    background-color: #1565c0;
+  }
+  
+  .MuiButton-outlinedSecondary {
+    margin-top: 10px;
+    color: #1976d2;
+    border-color: #1976d2;
+  }
+  
+  .MuiButton-outlinedSecondary:hover {
+    background-color: rgba(25, 118, 210, 0.1);
+  }
+  form {
+    margin-top: 20px;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
+  
